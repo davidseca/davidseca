@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm one of the iOS developers at [tarent solutions GmbH](https://www.tarent.de) in Bonn, Germany.
+I'm one of the iOS developers at [Qvest Digital AG](https://www.tarent.de) in Bonn, Germany.
 
 <!--
 **davidseca/davidseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
